@@ -1,0 +1,2 @@
+# Generate-RANDOM-STRING
+Generate a RANDOM STRING
